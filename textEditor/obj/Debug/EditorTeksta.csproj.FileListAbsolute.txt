@@ -1,0 +1,11 @@
+C:\Users\LaPeM\source\repos\textEditor\DobarEditor-main\bin\Debug\EditorTeksta.exe.config
+C:\Users\LaPeM\source\repos\textEditor\DobarEditor-main\bin\Debug\EditorTeksta.exe
+C:\Users\LaPeM\source\repos\textEditor\DobarEditor-main\bin\Debug\EditorTeksta.pdb
+C:\Users\LaPeM\source\repos\textEditor\DobarEditor-main\obj\Debug\EditorTeksta.csproj.AssemblyReference.cache
+C:\Users\LaPeM\source\repos\textEditor\DobarEditor-main\obj\Debug\EditorTeksta.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaPeM\source\repos\textEditor\DobarEditor-main\obj\Debug\EditorTeksta.Form1.resources
+C:\Users\LaPeM\source\repos\textEditor\DobarEditor-main\obj\Debug\EditorTeksta.Properties.Resources.resources
+C:\Users\LaPeM\source\repos\textEditor\DobarEditor-main\obj\Debug\EditorTeksta.csproj.GenerateResource.cache
+C:\Users\LaPeM\source\repos\textEditor\DobarEditor-main\obj\Debug\EditorTeksta.csproj.CoreCompileInputs.cache
+C:\Users\LaPeM\source\repos\textEditor\DobarEditor-main\obj\Debug\EditorTeksta.exe
+C:\Users\LaPeM\source\repos\textEditor\DobarEditor-main\obj\Debug\EditorTeksta.pdb
