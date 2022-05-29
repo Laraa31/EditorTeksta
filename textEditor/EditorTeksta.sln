@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorTeksta", "EditorTeksta.csproj", "{270C1810-977B-4A95-8B67-67A6A20863A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorTeksta", "..\DobarEditor-main\EditorTeksta.csproj", "{270C1810-977B-4A95-8B67-67A6A20863A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
